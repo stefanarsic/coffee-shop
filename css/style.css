@@ -327,12 +327,7 @@ section {
   font-size: 1.8rem;
   color: var(--black);
   border: var(--border);
-  border-radius: 25px;
   margin: 1rem 0;
-}
-
-.contact .row form .btn {
-  border-radius: 25px;
 }
 
 /* footer section */
