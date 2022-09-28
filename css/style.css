@@ -469,4 +469,12 @@ section {
   .team .box-container {
     gap: 3rem;
   }
+
+  .team .box-container .box {
+    border-bottom: 1px solid var(--black);
+  }
+
+  .team .box-container .box h3 {
+    margin-top: 2rem;
+  }
 }
